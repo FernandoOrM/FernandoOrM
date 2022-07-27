@@ -114,8 +114,11 @@ public class Bio {
 ### 🤝🏻 &nbsp;Contáctame:
 
 <p align="center">
-<a href="https://www.linkedin.com/in/luis-fernando-ordaz-monreal-7722691a3/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Luis%20Fernando%20Ordaz%20Monreal-blue?style=flat-square&logo=linkedin"></a>
 <a href="mailto:fernando.ordm@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fernando.ordm@gmail.com-blue?style=flat-square&logo=gmail"></a>
+<p align="left">
+<a href="https://dev.to/fernandoorm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fernandoorm" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/luis fernando ordaz monreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis fernando ordaz monreal" height="30" width="40" /></a>
+</p>
 </p>
 
 ⭐️ From [Fernando_OM](https://github.com/FernandoOrM)
