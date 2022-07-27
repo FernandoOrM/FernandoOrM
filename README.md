@@ -13,7 +13,7 @@ public class Bio {
         {{
             put("- ⚡ Resumen rápido:", "Me considero un músico amateur \\ gamer \\ amante de la comida \\ programador \\ amante de los gatos");
             put("- 🔭 Actualmente trabajo en:", "Teko Estudio como desarrollador backend");
-            put("- 🌱 Actualmente estoy aprendiendo:", "MongoDB, RabbitMQ, Clean Architecture, Devops --- Estoy intentando mejorar mis skills en frontend (Meta personal)");
+            put("- 🌱 Actualmente estoy aprendiendo:", "MongoDB, RabbitMQ, Clean Code, Principios SOLID, Devops --- Estoy intentando mejorar mis skills en frontend (Meta personal)");
             put("- 👯 Estoy buscando colaborar en:", "Proyectos Sprign boot, docker");
             put("- 🤔 Estoy buscando ayuda con:", "Cualquier cosa relacionad con lo que estoy aprendiendo😅");
             put("- 💬 Puedes preguntarme acerca de:", "PHP, Laravel, SQL");
