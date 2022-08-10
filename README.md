@@ -117,7 +117,8 @@ public class Bio {
 <a href="mailto:fernando.om.dev@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-fernando.om.dev@gmail.com-blue?style=flat-square&logo=gmail"></a>
 <p align="left">
 <a href="https://dev.to/fernandoorm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="fernandoorm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/luis fernando ordaz monreal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis fernando ordaz monreal" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/luis-fernando-ordaz-monreal-7722691a3/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="luis fernando ordaz monreal" height="30" width="40" /></a>
+<a href="https://www.facebook.com/hccode17" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" alt="luis fernando ordaz monreal" height="30" width="40" /></a>
 </p>
 </p>
 
